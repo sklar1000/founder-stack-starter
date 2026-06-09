@@ -1,0 +1,14 @@
+# Secrets — never commit
+.env
+.env.*
+*.key
+*.local
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.obsidian/workspace*
+
+# Facilitator-only material (not part of the student starter)
+FACILITATOR-*.md
+Slides/
