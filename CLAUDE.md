@@ -81,6 +81,7 @@ Current priorities live in `workboard.md` (this week's max-3 + next actions).
 | `/commit` | Clean git commit |
 | `/interview-debrief` | Turn a customer conversation into updated strategy |
 | `/update-assumptions` | Re-rank riskiest assumptions from the latest evidence |
+| `/team-copilot` | Navigate working together — reads your team's profiles to divide work, cover blind spots, unstick friction |
 
 ---
 

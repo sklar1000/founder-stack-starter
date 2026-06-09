@@ -6,6 +6,10 @@ decides. Make it explicit now, while it's easy.
 *(Solo founder? Just list the hats you're wearing, and which one you're worst at — that's
 the one to hire or get help on first.)*
 
+> **Build a shared Team Co-Pilot.** Once these profiles are filled in, see `team/team-copilot.md`
+> — instructions to spin up a Custom GPT / Claude Project that knows your whole team and helps you
+> divide work by strength, cover blind spots, and navigate friction.
+
 ---
 
 ## Ownership
