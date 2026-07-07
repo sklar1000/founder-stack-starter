@@ -8,13 +8,13 @@ Wrap up. Document what happened, update the board, commit.
 
 ### 1. Summarize
 
-```
-SESSION SUMMARY
-Worked on: [what]
-COMPLETED: [what got done]
-IN PROGRESS: [what remains]
-FILES CHANGED: [list]
-```
+Render this as normal markdown, not inside a code block:
+
+> ## Session summary
+> **Worked on:** [what]
+> **Completed:** [what got done]
+> **In progress:** [what remains]
+> **Files changed:** [list]
 
 ### 2. Update the living files
 
@@ -35,12 +35,10 @@ that might be public.
 
 ### 4. Handoff
 
-```
-NEXT SESSION
-Priority: [the one thing to do next]
-Context: [key thing to remember]
-Resume with: /start-session
-```
+> ## Next session
+> **Priority:** [the one thing to do next]
+> **Context:** [key thing to remember]
+> **Resume with:** `/start-session`
 
 ### 5. Offer push
 

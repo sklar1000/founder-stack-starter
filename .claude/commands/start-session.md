@@ -18,22 +18,21 @@ git log --oneline -3 2>/dev/null || echo "No git history yet"
 
 ## Output Format
 
-```
-SESSION READY — [Day, Date]
+Render this as normal markdown, not inside a code block:
 
-TEAM:        [names + roles, one line]
-BUILDING:    [one-sentence what + stage]
-TESTING NOW: [top riskiest assumption from assumptions.md]
-
-THIS WEEK:
-  - [up to 3 from workboard.md]
-
-RECENT:
-  [last 3 commits, if any]
-
----
-What's the focus today?
-```
+> ## Session ready — [Day, Date]
+>
+> **Team:** [names + roles, one line]
+> **Building:** [one-sentence what + stage]
+> **Testing now:** [top riskiest assumption from assumptions.md]
+>
+> **This week**
+> - [up to 3 from workboard.md]
+>
+> **Recent:** [last 3 commits, if any]
+>
+> ---
+> What's the focus today?
 
 ## After Startup
 
